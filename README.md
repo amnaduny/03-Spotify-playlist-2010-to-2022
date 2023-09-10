@@ -15,6 +15,3 @@ dataset [playlist_2010to2022.csv](https://github.com/amnaduny/03-Spotify-playlis
    - How do the top 10% most popular tracks differ from the bottom 10% in terms of musical characteristics?
    - Are certain genres more prevalent in specific years?
 
-Last update 10th September 2023
-by : Amnaduny Akhara Nurhasan
-
